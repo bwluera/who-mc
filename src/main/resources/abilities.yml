@@ -1,0 +1,6 @@
+double-jump:
+  name: "&2Double Jump"
+  cooldown-in-seconds: 3
+grand-slam:
+  name: "&9&lGrand&r &9Slam"
+  cooldown-in-seconds: 15
